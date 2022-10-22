@@ -17,7 +17,6 @@ darkmode: false
 # Social links
 # twitter_username: facespics
 github_username:  junyongeom
-# kaggle_username:  liketherain
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -29,6 +28,12 @@ github_username:  junyongeom
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
+
+# Kaggle link
+additional_links:
+- title: Kaggle
+  icon: fa-brands fa-kaggle
+  url: https://www.kaggle.com/liketherain 
 
 # Additional icon links
 # 추가 할 수 있는 링크임 아무거나 
