@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Jun Yong Eom
 title: This is a demo page. Please don't be serious.
-email: TBD
-website: https://junyongeom.github.io
+email: eomsid@gmail.com
+#website: https://junyongeom.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -35,12 +35,7 @@ additional_links:
   icon: fab fa-kaggle
   url: https://www.kaggle.com/liketherain 
 
-# Additional icon links
-# 추가 할 수 있는 링크임 아무거나 
-# additional_links:
-# - title: itsgoingto.be
-  # icon: fas fa-globe
-  # url: https://www.itsgoingto.be
+
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -114,14 +109,31 @@ content:
 
           He spent a lot of his free time as a *Kaggler*.
 
+  # - title: Publications
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     TBD
+
+  # - title: Licenses & certifications
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     TBD
+  
+  # - title: Honors & awards
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     TBD
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and researches some of my other interests and hobbies are:
-      - Kickboxing
       - Swimming
       - Cycling
+      - Reading
       - [Watching the speaking orca..!](https://www.youtube.com/watch?v=uAiF9cBTADc)
+
+
 
 
 # branch
