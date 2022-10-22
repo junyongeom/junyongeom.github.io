@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jun Yong Eom
-title: Ttubeokyee
+title: This is a demo page. Please don't be serious.
 email: TBD
 website: https://junyongeom.github.io
 
@@ -17,7 +17,7 @@ darkmode: false
 # Social links
 # twitter_username: facespics
 github_username:  junyongeom
-kaggle_username:  liketherain
+# kaggle_username:  liketherain
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
