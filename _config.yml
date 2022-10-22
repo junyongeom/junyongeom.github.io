@@ -79,7 +79,7 @@ content:
         quote: >
           This is the greatest project ever created.
         description: | # this will include new lines to allow paragraphs
-          He started this project for <mark>fun</mark>. It is widely known in communication societies that he dedicated his whole life as an ***Ttubeokyee***
+          He started this project for **fun**. It is widely known in communication societies that he dedicated his whole life as an ***Ttubeokyee***
           in *Republic of Korea*.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
