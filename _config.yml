@@ -55,11 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   He possesses a **tta-leung-e** *semi-annual ticket* and **1st class** *ordinary driver's license*.
 
-  He is currently dating an extremely attractive woman named J.Y.Park. 
+  He is currently dating an extremely attractive woman named </mark>J.Y.Park</mark>. 
   
   |
 
-  He is most skilled in: <mark>Radio Resource management</mark> and <mark>Drinking</mark>.
+  He is most skilled in: **Radio Resource management**and **Drinking**.
 
 content:
   - title: Projects # Title for the section
