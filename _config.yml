@@ -89,7 +89,7 @@ content:
         quote: >
           Solving 21st century problems by diging holes.
         description: | # this will include new lines to allow paragraphs
-            He is *Goon.Pil.*
+            He is **Goon Pil**.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -101,7 +101,7 @@ content:
         quote: >
           I think he needs more education...
         description: | # this will include new lines to allow paragraphs
-          *Eagerly* working guy.
+          Eagerly working guy.
 
           He spent a lot of his free time as a *Kaggler*.
 
@@ -114,8 +114,8 @@ content:
       - Cycling
       - [Watching the speaking orca..!](https://www.youtube.com/watch?v=uAiF9cBTADc)
 
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+      # Look at this cool image  
+      # ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
