@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jun Yong Eom
-title: Hello. It's just a demo. Thanks to sproogen
+title: Ttubeokyee
 email: TBD
 website: https://junyongeom.github.io
 
@@ -50,12 +50,11 @@ github_username:  junyongeom
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Jun Yong Eom can be a fantastic companion. 
-
+  Jun Yong Eom can be a fascinating companion. 
 
   He possesses a **tta-leung-e** *semi-annual ticket* and **1st class** *ordinary driver's license*.
 
-  I am most skilled in: <mark>Radio Resource management</mark> and <mark>Drinking</mark>.
+  He is most skilled in: <mark>Radio Resource management</mark> and <mark>Drinking</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -75,7 +74,8 @@ content:
         quote: >
           This is the greatest project ever created.
         description: | # this will include new lines to allow paragraphs
-          I started this project for <mark>fun</mark>.
+          He started this project for <mark>fun</mark>. It is widely known in communication societies that he dedicated his whole life as an ***Ttubeokyee***
+          in *Republic of Korea*.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -88,7 +88,7 @@ content:
         quote: >
           Solving 21st century problems by diging holes.
         description: | # this will include new lines to allow paragraphs
-            He is goon..pil..
+            He is *Goon.Pil.*
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -102,7 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           *Eagerly* working guy.
 
-          I spent a lot of my free time as a *Kaggler*.
+          He spent a lot of his free time as a *Kaggler*.
 
   - title: A Little More About Me
     layout: text
