@@ -32,7 +32,7 @@ github_username:  junyongeom
 # Kaggle link
 additional_links:
 - title: Kaggle
-  icon: fa-brands fa-kaggle
+  icon: fab fa-kaggle
   url: https://www.kaggle.com/liketherain 
 
 # Additional icon links
