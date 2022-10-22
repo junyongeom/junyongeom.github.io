@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jun Yong Eom
 title: This is a demo page. Please don't be serious.
-email: eomsid@gmail.com | jyeom@snu.ac.kr
+email: eomsid@gmail.com
 #website: https://junyongeom.github.io
 
 # Dark Mode (true/false/never)
@@ -66,7 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Walk the earth
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
