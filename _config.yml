@@ -51,9 +51,11 @@ github_username:  junyongeom
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Jun Yong Eom can be a fantastic companion. 
+
+  
   He posesses a *tta-leung-e* semi-annual ticket and he is currently enrolled in an intermediate swimming class.
 
-  I am most skilled in: <mark>Radio Resource management</mark> and <mark>Drinking</mark>
+  I am most skilled in: <mark>Radio Resource management</mark> and <mark>Drinking</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -84,7 +86,7 @@ content:
         # sub_title: Senior Network System Administrator
         caption: March 2018 - June 2020
         quote: >
-          Solving 21st century problems by **diging holes**
+          Solving 21st century problems by diging holes.
         description: | # this will include new lines to allow paragraphs
             He is goon..pil..
 
@@ -98,14 +100,14 @@ content:
         quote: >
           I think he needs more education...
         description: | # this will include new lines to allow paragraphs
-          Eagerly *working*
+          *Eagerly* working guy.
 
           I spent a lot of my free time as a *Kaggler*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in networks and researches some of my other interests and hobbies are:
       - Kickboxing
       - Swimming
       - Cycling
