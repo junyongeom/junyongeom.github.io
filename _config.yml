@@ -9,7 +9,7 @@ version: 2
 name: Jun Yong Eom
 title: Hello. It's just a demo. Thanks to sproogen
 email: secret..
-website: www.github.com/junyongeom.github.io
+website: https://junyongeom.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -107,8 +107,7 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Swimming
       - Kickboxing
-      # - K
-      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [Watching a speaking orca..!](https://www.youtube.com/watch?v=uAiF9cBTADc)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
