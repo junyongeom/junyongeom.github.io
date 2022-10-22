@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jun Yong Eom
 title: This is a demo page. Please don't be serious.
-email: eomsid@gmail.com, jyeom@snu.ac.kr
+email: eomsid@gmail.com | jyeom@snu.ac.kr
 #website: https://junyongeom.github.io
 
 # Dark Mode (true/false/never)
@@ -81,6 +81,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           He started this project for **fun**. It is widely known in communication societies that he dedicated his whole life as an ***Ttubeokyee***
           in *Republic of Korea*.
+
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
