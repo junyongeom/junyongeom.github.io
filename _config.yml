@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jun Yong Eom
 title: Hello. It's just a demo. Thanks to sproogen
-email: secret..
+email: TBD
 website: https://junyongeom.github.io
 
 # Dark Mode (true/false/never)
@@ -50,7 +50,8 @@ github_username:  junyongeom
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Jun Yong Eom can be a fantastic companion.
+  Jun Yong Eom can be a fantastic companion. 
+  He posesses a *tta-leung-e* semi-annual ticket and he is currently enrolled in an intermediate swimming class.
 
   I am most skilled in: <mark>Radio Resource management</mark> and <mark>Drinking</mark>
 
@@ -83,7 +84,7 @@ content:
         # sub_title: Senior Network System Administrator
         caption: March 2018 - June 2020
         quote: >
-          Solving 21st century problems by ***diging holes***
+          Solving 21st century problems by **diging holes**
         description: | # this will include new lines to allow paragraphs
             He is goon..pil..
 
@@ -91,9 +92,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: #Harvard University
-        caption: 2010 - 2013
-        sub_title: #BSc Computer Science
+        title: Swimming
+        caption: 2022 - present
+        sub_title: Butterfly stroke is hard to learn
         quote: >
           I think he needs more education...
         description: | # this will include new lines to allow paragraphs
@@ -105,8 +106,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Swimming
       - Kickboxing
+      - Swimming
+      - Cycling
       - [Watching the speaking orca..!](https://www.youtube.com/watch?v=uAiF9cBTADc)
 
       Look at this cool image  
